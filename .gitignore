@@ -1,0 +1,3 @@
+venv
+*.pyc
+xtremism/db.sqlite3
